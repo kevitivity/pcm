@@ -1,4 +1,4 @@
-# kevin.a.stanchfield@jpl.nasa.gov
+# kevitivity@gmail.com
 #
 # pcm.py is Python script that provides a command-line interface for managing
 PAM configurations.
